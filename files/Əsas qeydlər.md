@@ -843,7 +843,7 @@ manager) kimi də tanınır. Hypervisor eyni hostda birdən çox VM yaradıb, on
 əməliyyat sistemi ilə işlətməyə imkan verir. VM-lər həmin hostun fiziki resurslarından eyni
 zamanda istifadə edirlər.
 
-![hyper.png](%C6%8Fsas%20qeydl%C9%99r%20daa4afb8467a418898a74607b239dc40/hyper.png)
+![hyper.png](%C6%8Fsas%20qeydl%C9%99r/hyper.png)
 
 - Type 1 hypervisor-lara misal olaraq Microsoft Hyper-V, Vmware ESX və Citrix
 XenServer-i göstərmək olar. (soldakı)

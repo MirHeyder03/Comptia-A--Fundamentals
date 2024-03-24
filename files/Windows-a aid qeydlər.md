@@ -32,10 +32,5 @@
 - move – Moves a File or Folder to a Specified Folder
 - ren – Renames a File with the Syntax ren filename.extension new-name.extension
 
-- INF File - Windows driver
-
-# `System Restore in Windows`
-
-System properties hissəsində ⇒ System Protectiona daxil olmalıyıq.
-
-Create edib ad veririk.
+### File uzantısı
+INF File - Windows driver

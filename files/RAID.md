@@ -26,7 +26,7 @@ TB disk varsa, 8 TB yaddaşın olur.
 
 - `Düstur`: Minimum*disklərin sayı
 
-![raid0.png](RAID%2058bda834b034429aa1ece8494c09622c/raid0.png)
+![raid0.png](RAID/raid0.png)
 
 # `RAID 1`
 
@@ -38,7 +38,7 @@ sayda disklərə tətbiq edilə bilər.
 
 - `Düstur`: Minimum*2/2
 
-![raid1.png](RAID%2058bda834b034429aa1ece8494c09622c/raid1.png)
+![raid1.png](RAID/raid1.png)
 
 # `RAID 5`
 
@@ -49,7 +49,7 @@ varsa, cəmi 12 TB yaddaşın olur. Oxuma sürəti yüksək, yazma sürəti aşa
 - `Düstur`: Minimum*(disk sayı-1)
 - Disk sayı artdıqca disk itkisinin faizi azalır
 
-![RAID.png](RAID%2058bda834b034429aa1ece8494c09622c/RAID.png)
+![RAID.png](RAID/RAID.png)
 
 ## RAID 50 (RAID 5+0) da var
 
